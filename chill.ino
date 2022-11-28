@@ -67,7 +67,7 @@ void setup()
   RemoteXY_Init (); 
   pinMode(LED_PIN1, OUTPUT);
   pinMode(LED_PIN2, OUTPUT);
-  
+  test="HOLA";
   // TODO you setup code
   
 }
